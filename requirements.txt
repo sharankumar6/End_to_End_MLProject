@@ -6,4 +6,5 @@ ipynb
 scikit-learn
 catboost
 xgboost
+dill
 # -e .
